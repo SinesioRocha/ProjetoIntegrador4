@@ -1,0 +1,9 @@
+br\pro\delfino\drogaria\entidades\Cliente.class
+br\pro\delfino\drogaria\entidades\PedidosProduto.class
+br\pro\delfino\drogaria\entidades\Colaborador.class
+br\pro\delfino\drogaria\entidades\Pedidos.class
+br\pro\delfino\drogaria\entidades\Produto.class
+br\pro\delfino\drogaria\entidades\Veiculo.class
+br\pro\delfino\drogaria\entidades\Perfil.class
+br\pro\delfino\drogaria\entidades\Vendedor.class
+br\pro\delfino\drogaria\ProjetoIntegradorApplication.class
